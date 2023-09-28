@@ -1,0 +1,8 @@
+V:\for_ipz\lab_1_SE\lab_1_SE\bin\Debug\lab_1_SE.exe.config
+V:\for_ipz\lab_1_SE\lab_1_SE\bin\Debug\lab_1_SE.exe
+V:\for_ipz\lab_1_SE\lab_1_SE\bin\Debug\lab_1_SE.pdb
+V:\for_ipz\lab_1_SE\lab_1_SE\obj\Debug\lab_1_SE.csproj.AssemblyReference.cache
+V:\for_ipz\lab_1_SE\lab_1_SE\obj\Debug\lab_1_SE.csproj.SuggestedBindingRedirects.cache
+V:\for_ipz\lab_1_SE\lab_1_SE\obj\Debug\lab_1_SE.csproj.CoreCompileInputs.cache
+V:\for_ipz\lab_1_SE\lab_1_SE\obj\Debug\lab_1_SE.exe
+V:\for_ipz\lab_1_SE\lab_1_SE\obj\Debug\lab_1_SE.pdb
